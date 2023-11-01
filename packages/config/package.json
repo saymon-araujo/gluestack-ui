@@ -1,5 +1,5 @@
 {
-  "name": "@gluestack-ui/config",
+  "name": "@om/components",
   "version": "1.0.3",
   "main": "build/gluestack-ui.config.js",
   "types": "build/gluestack-ui.config.d.ts",
