@@ -1,5 +1,5 @@
 {
-  "name": "@gluestack-ui/themed",
+  "name": "@om/components",
   "version": "1.0.10",
   "main": "build/index.js",
   "types": "build/index.d.ts",
